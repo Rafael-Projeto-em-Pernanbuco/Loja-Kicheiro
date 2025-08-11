@@ -105,7 +105,7 @@
 
     <header>
         <h1>Kicheiro</h1>
-        <p>Rua Padre Medeiros N°13, Centro, Exu-PE</p>
+        <p>Rua Petias Peixoto N°13, Centro, Exu-PE</p>
     </header>
 
     <div class="content">
