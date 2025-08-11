@@ -114,7 +114,7 @@
 
         <div class="map-container">
             <iframe 
-                src="https://www.google.com/maps?q=Rua+Padre+Medeiros+13,+Exu,+PE&output=embed"
+                src="https://www.google.com/maps?q=Rua+petias+Peixoto+13,+Exu,+PE&output=embed"
                 allowfullscreen>
             </iframe>
         </div>
