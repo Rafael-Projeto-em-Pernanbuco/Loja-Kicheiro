@@ -39,6 +39,41 @@
             border: none;
         }
 
+    .social-buttons a {
+      display: inline-block;
+      margin: 10px;
+      text-decoration: none;
+      color: #fff;
+      background-color: #333;
+      padding: 10px 20px;
+      border-radius: 5px;
+    }
+    .chat-box {
+      background-color: #1a1a1a;
+      border: 1px solid #333;
+      border-radius: 5px;
+      padding: 10px;
+      max-width: 400px;
+      margin: 20px auto;
+    }
+    .chat-box textarea {
+      width: 100%;
+      height: 60px;
+      resize: none;
+      background: #000;
+      color: #ccc;
+      border: 1px solid #444;
+      border-radius: 4px;
+      margin-bottom: 10px;
+    }
+    .chat-box button {
+      padding: 8px 16px;
+      background: #444;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+
         /* Google Tradutor fixado no canto */
         #google_translate_element {
             position: fixed;
