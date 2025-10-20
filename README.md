@@ -120,6 +120,32 @@
         </div>
     </div>
 
+        <hr style="margin: 40px 0; border-color: #333;">
+
+        <h2>Nossos Óculos</h2>
+        <p>Confira alguns dos modelos disponíveis em nossa loja:</p>
+
+        <div class="product-list">
+            <div class="product">
+                <img src="https://via.placeholder.com/200x120?text=Óculos+1" alt="Óculos Clássico">
+                <h3>Óculos Clássico</h3>
+                <p>Modelo tradicional, ideal para o dia a dia.</p>
+                <span class="price">R$ 149,90</span>
+            </div>
+            <div class="product">
+                <img src="https://via.placeholder.com/200x120?text=Óculos+2" alt="Óculos Esportivo">
+                <h3>Óculos Esportivo</h3>
+                <p>Leve e resistente, perfeito para atividades ao ar livre.</p>
+                <span class="price">R$ 199,90</span>
+            </div>
+            <div class="product">
+                <img src="https://via.placeholder.com/200x120?text=Óculos+3" alt="Óculos Retrô">
+                <h3>Óculos Retrô</h3>
+                <p>Design vintage com lentes modernas.</p>
+                <span class="price">R$ 179,90</span>
+            </div>
+        </div>
+
     <!-- Chat Box -->
     <div class="chat-box">
         <div class="chat-header" onclick="toggleChat()">Atendimento Online</div>
