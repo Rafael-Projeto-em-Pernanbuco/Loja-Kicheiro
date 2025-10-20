@@ -82,18 +82,6 @@
             z-index: 9999;
         }
 
-        /* Chat Simples */
-        .chat-box {
-            position: fixed;
-            bottom: 0;
-            right: 20px;
-            width: 300px;
-            background: #1e1e1e;
-            border: 1px solid #444;
-            border-radius: 8px 8px 0 0;
-            color: white;
-        }
-
         .chat-header {
             background: #000;
             padding: 10px;
