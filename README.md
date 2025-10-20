@@ -120,6 +120,25 @@
         </div>
     </div>
 
+  <h2>Fale Conosco</h2>
+  <div class="chat-box">
+    <textarea placeholder="Digite sua mensagem..."></textarea><br>
+    <button onclick="alert('Mensagem enviada! (Simulação)')">Enviar</button>
+    <button onclick="startRecording()">🎤 Gravar Áudio</button>
+    <p id="audio-status"></p>
+  </div>
+
+  <h2>Redes Sociais</h2>
+  <div class="social-buttons">   
+ <a href="https://www.youtube.com/SEUUSUARIO" target="_blank">Youtube</a>     <a href="https://wa.me/5587996838485" target="_blank">WhatsApp</a>
+    <a href="https://www.instagram.com/nenem_barbearia_02?igsh=MXNtNGFidjRyOWo5MA==" target="_blank">Instagram</a>
+    <a href="https://www.facebook.com/vandevanio.lourenco.2025/" target="_blank">Facebook</a>
+    <a href="https://twitter.com/SEUUSUARIO" target="_blank">Twitter</a>
+    <a href="https://kwai-video.com/u/@vandevaniolo/gFCvpZmK" target="_blank">Kwai</a>
+    <a href="https://t.me/SEUUSUARIO" target="_blank">Telegram</a>
+    <a href="https://www.tiktok.com/@wandevanio?_t=ZM-90YJELiCBCt&_r=1" target="_blank">TikTok</a>
+  </div>
+
         <hr style="margin: 40px 0; border-color: #333;">
 
         <h2>Nossos Óculos</h2>
