@@ -183,7 +183,7 @@
             <div class="product">
                 <img src="https://via.placeholder.com/200x120?text=Perfume+3" alt="Perfume Suave">
                 <h3>Perfume suave</h3>
-                <p>Perfumes com novudades nas fragrâncias.</p>
+                <p>Perfumes com novidades nas fragrâncias.</p>
                 <span class="price">R$ 179,90</span>
             </div>
         </div>
