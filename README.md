@@ -164,26 +164,26 @@
 
         <hr style="margin: 40px 0; border-color: #333;">
 
-        <h2>Nossos Óculos</h2>
-        <p>Confira alguns dos modelos disponíveis em nossa loja:</p>
+        <h2>Nossos Perfumes</h2>
+        <p>Confira algumas das fragrâncias disponíveis em nossa loja:</p>
 
         <div class="product-list">
             <div class="product">
-                <img src="https://via.placeholder.com/200x120?text=Óculos+1" alt="Óculos Clássico">
-                <h3>Óculos Clássico</h3>
-                <p>Modelo tradicional, ideal para o dia a dia.</p>
+                <img src="https://via.placeholder.com/200x120?text=Perfumes+1" alt="Perfume Clássico">
+                <h3>Perfume Clássico</h3>
+                <p>Fragrância tradicional, ideal para o dia a dia.</p>
                 <span class="price">R$ 149,90</span>
             </div>
             <div class="product">
-                <img src="https://via.placeholder.com/200x120?text=Óculos+2" alt="Óculos Esportivo">
-                <h3>Óculos Esportivo</h3>
-                <p>Leve e resistente, perfeito para atividades ao ar livre.</p>
+                <img src="https://via.placeholder.com/200x120?text=Perfumes+2" alt="Perfumes Esportivo">
+                <h3>Perfume aromático</h3>
+                <p>Cheiroso e aromático, perfeito para dia a dia.</p>
                 <span class="price">R$ 199,90</span>
             </div>
             <div class="product">
-                <img src="https://via.placeholder.com/200x120?text=Óculos+3" alt="Óculos Retrô">
-                <h3>Óculos Retrô</h3>
-                <p>Design vintage com lentes modernas.</p>
+                <img src="https://via.placeholder.com/200x120?text=Perfume+3" alt="Perfume Suave">
+                <h3>Perfume suave</h3>
+                <p>Perfumes com novudades nas fragrâncias.</p>
                 <span class="price">R$ 179,90</span>
             </div>
         </div>
